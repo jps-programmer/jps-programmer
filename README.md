@@ -6,4 +6,4 @@ I am currently a Computer Science student. I have experience with C, C++, Java, 
 
 If you would like to contact me for business purposes, please email me at jamesonsisk.programmer@gmail.com
 
-I look forward to learning and growing as a programmer
+I look forward to learning and growing as a software engineer
